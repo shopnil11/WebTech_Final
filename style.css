@@ -1,0 +1,55 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0), rgba(0,0,50,0.5)), url(shania.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.login-box{
+	max-width: 990px;
+	float: none;
+	margin: 150px auto;
+}
+.login-left{
+	background: rgba(211,211,211,0.5);
+	padding: 30px;
+}
+.login-right{
+	background: rgba(0,121,211,0.5);
+	padding: 30px;
+	background-position: right;
+}
+.form-control{
+	background-color: transparent !important;
+}
+a{
+	color:#FFFFFF !important;
+	margin-top: 50px !important;
+	text-transform: uppercase;
+}
+h1{
+	color: #fff !important;
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
+input{
+	color: #fff !important;
+}
+label{
+	color: #fff !important;
+}
+h2{
+	color: #FF0  !important;
+}
+li{
+	text-align: left;
+	margin-top: 6px !important;
+	text-transform: uppercase;
+	color: #FFFF00  !important;
+}
+.button {
+  background-color: #000000;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
